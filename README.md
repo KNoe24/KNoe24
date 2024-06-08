@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Sub+To+Woundfast.)](https://git.io/typing-svg)
 
---- BEGIN RANDOM ---
+--- BEGIN RANDOM STATS ---
 
 ![KNoe24](https://github-readme-stats.vercel.app/api?username=KNoe24&show_icons=true&theme=tokyonight&hide=["issues"])
 
